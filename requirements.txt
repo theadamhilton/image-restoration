@@ -1,0 +1,7 @@
+torch
+diffusers
+opencv-python
+numpy
+matplotlib
+pillow
+requests
